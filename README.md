@@ -1,6 +1,7 @@
 # Example of a project using data hazards
 
-[!WARNING] This repository may contain references internal to NHS England that cannot be accessed publicly
+> [!WARNING]
+> This repository may contain references internal to NHS England that cannot be accessed publicly
 
 This repository is a mock-up of how a data science project at NHS England could communicate what might go wrong in data science projects, using the labels from the Data Hazards Project.
 
@@ -18,7 +19,8 @@ See our other work on our [website][3].
 
 We are thinking about how we can use the Data Hazard labels to talk about ethical hazards in data science projects in the data science team at NHS ENgland. This README.md contains an example of how this might look.
 
-[!IMPORTANT] This does not constitute official policy and is an experimental piece of work.
+> [!IMPORTANT]
+> This does not constitute official policy and is an experimental piece of work.
 
 ## Prerequisites
 
