@@ -32,7 +32,7 @@ Any documentation is © NHS England copyright and available under the terms of t
 
 ## Hazards
 
-| <img src="./images/automates-decision-making.png" alt="A red diamond shaped outline (like a warning sign) with two connected cogs that have arrows coming out of the top of them" width="200"/> | <img src="./images/lacks-community.png" alt="Hazard: Lacks Community Involvement" width="200"/> | <img src="./images/environment.png" alt="Hazard: High Environmental Cost" width="200"/> | | | | |
+| [<img src="./images/automates-decision-making.png" alt="A red diamond shaped outline (like a warning sign) with two connected cogs that have arrows coming out of the top of them" width="200"/>](./docs/hazards/automates-decision-making.md) | <img src="./images/lacks-community.png" alt="Hazard: Lacks Community Involvement" width="200"/> | <img src="./images/environment.png" alt="Hazard: High Environmental Cost" width="200"/> | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="./images/direct-harm-bw.png" alt="Hazard: May Cause Direct Harm" width="200"/> | <img src="./images/misuse-bw.png" alt="Hazard: Danger of Misuse" width="200"/> | <img src="./images/classifies-people-bw.png" alt="Hazard: Ranks or Classifies People" width="200"/> | <img src="./images/difficult-to-understand-bw.png" alt="Hazard: Difficult to Understand" width="200"/> | <img src="./images/lacks-informed-consent-bw.png" alt="Hazard: Lacks Informed Consent" width="200"/> | <img src="./images/privacy-bw.png" alt="Hazard: Risk to Privacy" width="200"/> | <img src="./images/reinforce-bias-bw.png" alt="Hazard: Reinforces Existing Bias" width="200"/> |
 
