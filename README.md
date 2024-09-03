@@ -32,8 +32,8 @@ Any documentation is © NHS England copyright and available under the terms of t
 
 ## Acknowledgements
 
-[Harriet Sands](https://github.com/harrietrs)
-[Mia Noonan](https://github.com/amelianoonan1-nhs)
+* [Harriet Sands](https://github.com/harrietrs)
+* [Mia Noonan](https://github.com/amelianoonan1-nhs)
 
 [1]: https://datahazards.com/about.html
 [2]: mailto@datascience.nhs.net
