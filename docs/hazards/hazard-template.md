@@ -4,6 +4,8 @@
 
 ## Description
 
+Description of this hazard in the context of this repo.
+
 ## Prompts
 
 * Question

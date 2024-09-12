@@ -1,6 +1,6 @@
 # Hazard: Risk To Privacy
 
-<img src="/images/privacy.png" alt="A red diamond shaped outline (like a warning sign) with a picture of a surveillance camera in the middle." width="250"/>
+<img src="/images/colour/privacy.png" alt="A red diamond shaped outline (like a warning sign) with a picture of a surveillance camera in the middle." width="250"/>
 
 ## Description
 
