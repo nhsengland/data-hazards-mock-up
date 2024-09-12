@@ -4,13 +4,10 @@
 
 ## Description
 
-This technology may risk the privacy of individuals whose data is processed by it.
+## Prompts
 
-### Is the explicit and well-informed consent from any participants?
-
-See also the [lacks informed consent hazard](./lacks-informed-consent.md).
-
-### What digital and cyber security measures are in place?
+* Is the explicit and [well-informed consent](./lacks-informed-consent.md) from any participants?
+* What digital and cyber security measures are in place?
 
 ## More information
 

@@ -4,11 +4,10 @@
 
 ## Description
 
-This hazard is appropriate where methodologies are energy-hungry, data-hungry (requiring more and more computation), or require special hardware that require rare materials.
+## Prompts
 
-### How could you measure the energy usage of your choice of technology?
-
-### Are there more energy-efficient alternatives?
+* How could you measure the energy usage of your choice of technology?
+* Are there more energy-efficient alternatives?
 
 ## More information
 

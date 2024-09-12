@@ -4,15 +4,12 @@
 
 ## Description
 
-There is a danger of misusing the algorithm, technology, or data collected as part of this work.
+## Prompts
 
-### Which data governance guidelines apply here?
-
-### Is the project likely to be used outside of its original context? If so, has it been tested in this environment?
-
-### Are there circumstances in which the technology will not work, or give invalid results?
-
-### Are there clear instructions about how to use this technology, and are they presented wherever this work is presented?
+* Which data governance guidelines apply here?
+* Is the project likely to be used outside of its original context? If so, has it been tested in this environment?
+* Are there circumstances in which the technology will not work, or give invalid results?
+* Are there clear instructions about how to use this technology, and are they presented wherever this work is presented?
 
 ## More information
 

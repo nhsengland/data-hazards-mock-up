@@ -4,9 +4,10 @@
 
 ## Description
 
-### Prompt question 1
+## Prompts
 
-### Prompt question 2
+* Question
+* Another question
 
 ## More information
 

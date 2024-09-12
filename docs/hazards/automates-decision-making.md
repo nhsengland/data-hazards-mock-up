@@ -4,11 +4,11 @@
 
 ## Description
 
-### Which decisions are automated?
+## Prompts
 
-### What does automation bring to the process?
-
-### Who is benefitted/harmed by this automation?
+* Which decisions are automated?
+* What does automation bring to the process?
+* Who is benefitted/harmed by this automation?
 
 ## More information
 
