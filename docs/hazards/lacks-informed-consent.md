@@ -1,6 +1,6 @@
 # Hazard: Lacks Informed Consent
 
-<img src="/images/lacks-informed-consent.png" alt="A red diamond shaped outline (like a warning sign) containing a magnifying glass hovering over a cross on a piece of paper" width="250"/>
+<img src="/images/colour/lacks-informed-consent.png" alt="A red diamond shaped outline (like a warning sign) containing a magnifying glass hovering over a cross on a piece of paper" width="250"/>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Hazard: Ranks Or Classifies People
 
-<img src="/images/classifies-people.png" alt="A red diamond shaped outline (like a warning sign) with three people standing on a podium of first, second and third place" width="250"/>
+<img src="/images/colour/classifies-people.png" alt="A red diamond shaped outline (like a warning sign) with three people standing on a podium of first, second and third place" width="250"/>
 
 ## Description
 

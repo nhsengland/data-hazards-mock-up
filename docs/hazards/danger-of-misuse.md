@@ -1,6 +1,6 @@
 # Hazard: Danger Of Misuse
 
-<img src="/images/misuse.png" alt="A red diamond shaped outline (like a warning sign) with a hammer raised above a bent screw in the middle" width="250"/>
+<img src="/images/colour/misuse.png" alt="A red diamond shaped outline (like a warning sign) with a hammer raised above a bent screw in the middle" width="250"/>
 
 ## Description
 
