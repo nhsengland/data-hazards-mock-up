@@ -5,15 +5,15 @@
 
 This repository is a mock-up of how a data science project at NHS England could communicate what might go wrong in data science projects, using the labels from the Data Hazards Project.
 
-You can find out more about the Data Hazards Project on the [website][1].
+You can find out more about the Data Hazards Project on the [website][dh-site].
 
 ## Contact
 
 This repository is maintained by the NHS England Data Science Team.
 
-To contact us raise an issue on Github or via [email][2].
+To contact us raise an issue on Github or via [email][mail].
 
-See our other work on our [website][3].
+See our other work on our [website][nhs-ds-site].
 
 ## Description
 
@@ -24,11 +24,11 @@ We are thinking about how we can use the Data Hazard labels to talk about ethica
 
 ## Prerequisites
 
-An awareness of the [Data Hazards project][1].
+An awareness of the [Data Hazards project][dh-site].
 
 ## Licence
 
-Any documentation is © NHS England copyright and available under the terms of the Open Government 3.0 licence.
+The original [Data Hazards repository][dh-repo] is licensed under a [CC-BY 4.0 license][dh-licence] which allows us to use, remix and share this repo under the condition of proper attribution. The specific adaptations of _this_ repo is © NHS England copyright and available under the terms of the [Open Government 3.0 licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). In practice for this context and content these licences are very similar- please use, adapt, and attribute.
 
 ## Hazards
 
@@ -41,6 +41,8 @@ Any documentation is © NHS England copyright and available under the terms of t
 * [Harriet Sands](https://github.com/harrietrs)
 * [Mia Noonan](https://github.com/amelianoonan1-nhs)
 
-[1]: https://datahazards.com/about.html
-[2]: mailto@datascience.nhs.net
-[3]: https://nhsengland.github.io/datascience/
+[dh-site]: https://datahazards.com/about.html
+[dh-repo]: https://github.com/very-good-science/data-hazards
+[dh-licence]: https://github.com/very-good-science/data-hazards/blob/main/LICENSE.md
+[mail]: mailto@datascience.nhs.net
+[nhs-ds-site]: https://nhsengland.github.io/datascience/
