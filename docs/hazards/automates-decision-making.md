@@ -12,7 +12,7 @@
 
 ## More information
 
-More information about this hazard is availabe via the [Data Hazards Project website][1].
+More information about this hazard is available via the [Data Hazards Project website][1].
 
 ## Safety Precautions
 
