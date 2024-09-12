@@ -1,6 +1,6 @@
 # Hazard: Difficult To Understand
 
-<img src="/images/difficult-to-understand.png" alt="A red diamond shaped outline (like a warning sign) with an image of a closed box and a question mark next to it" width="250"/>
+<img src="/images/colour/difficult-to-understand.png" alt="A red diamond shaped outline (like a warning sign) with an image of a closed box and a question mark next to it" width="250"/>
 
 ## Description
 

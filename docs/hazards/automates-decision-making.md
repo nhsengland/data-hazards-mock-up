@@ -1,6 +1,6 @@
 # Hazard: Automates Decision Making
 
-<img src="/images/automates-decision-making.png" alt="A red diamond shaped outline (like a warning sign) with two connected cogs that have arrows coming out of the top of them" width="250"/>
+<img src="/images/colour/automates-decision-making.png" alt="A red diamond shaped outline (like a warning sign) with two connected cogs that have arrows coming out of the top of them" width="250"/>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Hazard: May Cause Direct Harm
 
-<img src="/images/direct-harm.png" alt="A red diamond shaped outline (like a warning sign) with a skull in the middle" width="250"/>
+<img src="/images/colour/direct-harm.png" alt="A red diamond shaped outline (like a warning sign) with a skull in the middle" width="250"/>
 
 ## Description
 
