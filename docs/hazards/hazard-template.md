@@ -1,6 +1,8 @@
-# Hazard: XX
+# Hazard: {XX}
+<!--- {XX} denotes template content that will need to be updated with hazard details --->
 
-<img src="/images/XX" alt="A red diamond shaped outline (like a warning sign) with ....." width="250"/>
+<!--- Edit the image path to display the correct image--->
+<img src="/images/colour/blank-label.png" alt="A red diamond shaped outline (like a warning sign) with {XX}" width="250"/>
 
 ## Description
 
@@ -17,4 +19,4 @@ More information about this hazard is available via the [Data Hazards Project we
 
 ## Safety Precautions
 
-[1]: https://datahazards.com/hazards/XX
+[1]: https://datahazards.com/hazards/{XX}
