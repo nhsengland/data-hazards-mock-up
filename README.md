@@ -44,5 +44,5 @@ The original [Data Hazards repository][dh-repo] is licensed under a [CC-BY 4.0 l
 [dh-site]: https://datahazards.com/about.html
 [dh-repo]: https://github.com/very-good-science/data-hazards
 [dh-licence]: https://github.com/very-good-science/data-hazards/blob/main/LICENSE.md
-[mail]: mailto@datascience.nhs.net
+[mail]: mailto:datascience@nhs.net
 [nhs-ds-site]: https://nhsengland.github.io/datascience/
